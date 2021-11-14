@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-# email: test@example.org
+email: huangpw1993[AT]zju.edu.cn
 # phone: 888 888 88 88
 # address:
 #   street: 450 Serra Mall
@@ -54,11 +54,6 @@ twitter: ''
 #     name: Discuss on Forum
 #     link: 'https://discourse.gohugo.io'
 
-contact_links:
-  - icon: envelope
-    icon_pack: fas
-    name:  huangpw1993[AT]zju.edu.cn
-    link: ''
 
 # Site header
 
@@ -66,7 +61,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
