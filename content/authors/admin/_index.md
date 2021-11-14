@@ -1,7 +1,7 @@
 ---
 title: Peiwei Huang
 role: Ph.D. Candidate
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: My research interests include wave energy harvesting, state estimation,
   robotics, artificial intelligence.
 interests:
