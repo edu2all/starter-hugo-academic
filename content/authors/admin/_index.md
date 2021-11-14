@@ -34,4 +34,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Peiwei Huang is a PhD candidate of mechatronics engineering at [SKLoFPMS](http://sklofp.zju.edu.cn/skl/) of Zhejiang University. His research interests include wave energy harvesting, state estimation, robotics, artificial intelligence. His current research involves the development of wave energy converter.
+Peiwei Huang is a PhD candidate of mechatronics engineering at [SKLoFPMS](http://sklofp.zju.edu.cn/sklen/) of Zhejiang University. His research interests include wave energy harvesting, state estimation, robotics, artificial intelligence. His current research involves the development of wave energy converter.
