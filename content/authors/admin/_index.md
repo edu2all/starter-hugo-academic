@@ -5,9 +5,10 @@ avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
+  - Wave Energy Harvesting
+  - State Estimation
+  - Robotics
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
@@ -33,4 +34,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Peiwei Huang is a PhD candidate of mechatronics engineering at [SKLoFPMS](http://sklofp.zju.edu.cn/skl/) of Zhejiang University. His research interests include wave energy harvesting, robotics, state estimation. His current research involves the development of wave energy converter.
+Peiwei Huang is a PhD candidate of mechatronics engineering at [SKLoFPMS](http://sklofp.zju.edu.cn/skl/) of Zhejiang University. His research interests include wave energy harvesting, state estimation, robotics, artificial intelligence. His current research involves the development of wave energy converter.
