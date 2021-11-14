@@ -24,10 +24,10 @@ organizations:
 education:
   courses:
     - course: PhD in Mechatronics Engineering
-      institution: "[Zhejiang University](https://www.zju.edu.cn/english/)"
+      institution: Zhejiang University
       year: 2022
     - course: BEng in Mechanical Engineering
-      institution: "[Jilin University](http://global.jlu.edu.cn/)"
+      institution: Jilin University
       year: 2016
 email: ""
 superuser: true
