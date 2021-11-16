@@ -7,8 +7,8 @@ featured: false
 tags:
   - WEC
 image:
-  filename: shannon.jpg
+  caption: Claude Elwood Shannon
   focal_point: Smart
-  preview_only: false
 ---
+
 This is my PhD Project
